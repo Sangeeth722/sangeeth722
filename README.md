@@ -1,6 +1,4 @@
-<style>
-  
-</style>
+
 
 ### Hi there 👋
 <h1 align="center"> I'm Sangeeth</h1>
