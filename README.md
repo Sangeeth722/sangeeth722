@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python** 
 
-- 💬 Ask me about **Python** **HTML** **CSS**
+- 💬 Ask me about **Python** **HTML** **tailwind** **vue**
 
 - 📫 How to reach me **Sangeeths431@gmail.com**
 
